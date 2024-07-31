@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/faraaz.github.io/static/css/main.d5868de8.css",
+    "main.js": "/faraaz.github.io/static/js/main.fdfb4d6a.js",
+    "static/js/453.4a91d8c7.chunk.js": "/faraaz.github.io/static/js/453.4a91d8c7.chunk.js",
+    "static/media/Faraaz_profile.jpg": "/faraaz.github.io/static/media/Faraaz_profile.b108395fd8161c58f5c7.jpg",
+    "static/media/faraaz_about.jpg": "/faraaz.github.io/static/media/faraaz_about.ab7891be4199ca53976d.jpg",
+    "static/media/Mohamed_Faraaz-CV.pdf": "/faraaz.github.io/static/media/Mohamed_Faraaz-CV.9f2c8ecd2a62138d7af4.pdf",
+    "static/media/testimonial3.png": "/faraaz.github.io/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/faraaz.github.io/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/faraaz.github.io/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "index.html": "/faraaz.github.io/index.html",
+    "main.d5868de8.css.map": "/faraaz.github.io/static/css/main.d5868de8.css.map",
+    "main.fdfb4d6a.js.map": "/faraaz.github.io/static/js/main.fdfb4d6a.js.map",
+    "453.4a91d8c7.chunk.js.map": "/faraaz.github.io/static/js/453.4a91d8c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5868de8.css",
+    "static/js/main.fdfb4d6a.js"
+  ]
+}
